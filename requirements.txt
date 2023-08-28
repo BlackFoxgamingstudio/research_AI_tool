@@ -1,7 +1,5 @@
 fastapi[all]
 openai
 python-dotenv
-pydantic==1.*
-langchain
+pydantic
 bs4
-tiktoken
